@@ -27,6 +27,7 @@
 
 	<header id="masthead" class="site-header">
 		<div class="site-branding">
+			TESTING TESTING 123
 			<?php
 			the_custom_logo();
 			if ( is_front_page() && is_home() ) :
